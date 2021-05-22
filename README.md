@@ -3,6 +3,7 @@
 ## Project setup
 ```
 npm install
+on server/index.js add the link for a MongoDB on the referenced place
 ```
 
 ### Compiles and hot-reloads for development
